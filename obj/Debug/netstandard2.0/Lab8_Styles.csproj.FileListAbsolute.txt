@@ -1,0 +1,15 @@
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\bin\Debug\netstandard2.0\Lab8_Styles.deps.json
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\bin\Debug\netstandard2.0\Lab8_Styles.dll
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\bin\Debug\netstandard2.0\Lab8_Styles.pdb
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.csproj.AssemblyReference.cache
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.AssemblyInfoInputs.cache
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.AssemblyInfo.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.csproj.CoreCompileInputs.cache
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\XamlC.stamp
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.dll
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\refint\Lab8_Styles.dll
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.pdb
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\ref\Lab8_Styles.dll
