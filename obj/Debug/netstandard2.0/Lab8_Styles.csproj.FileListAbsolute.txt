@@ -4,6 +4,9 @@ D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_St
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.csproj.AssemblyReference.cache
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.GeneratedMSBuildEditorConfig.editorconfig
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\ExplicitControlDemo.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\ExplicitDemo.xaml.g.cs
+D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\ImplicitDemo.xaml.g.cs
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.AssemblyInfoInputs.cache
 D:\DANIEL\Aplicaciones_multiplataforma\proyectos\Lab8_Styles\Lab8_Styles\Lab8_Styles\obj\Debug\netstandard2.0\Lab8_Styles.AssemblyInfo.cs
